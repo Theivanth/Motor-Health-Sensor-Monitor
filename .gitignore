@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/dashboard_live_stream.csv
+data/dashboard_streamer.log
+data/live_stream.csv
